@@ -1,0 +1,6 @@
+﻿﻿~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Medical Research Application~~~~~~~~~~~~~~~~~~~
+TO ADD Dieases -------------->PRESS 1
+TO ADD Symptoms-------------->PRESS 2
+TO check Pat----------------->PRESS 3
+
+PS: ANY OTHER KEY IS CONSIDERED AS EXIT.....................................
