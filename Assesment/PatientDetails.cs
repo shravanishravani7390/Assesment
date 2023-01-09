@@ -149,10 +149,7 @@ namespace SampleFrameWork.Assesment
             }
         }
 
-        private void CheckPatient(Diease diease)
-        {
-            throw new NotImplementedException();
-        }
+     
 
         class MainClass
         {
